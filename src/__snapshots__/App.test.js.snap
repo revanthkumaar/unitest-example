@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testing the render of account component acccount comp renders correctly 1`] = `
+<div
+  className="Account"
+>
+  <p>
+    revnht
+  </p>
+</div>
+`;

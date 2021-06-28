@@ -1,9 +1,8 @@
 
-
 function Account() {
   return (
     <div className="Account">
-     <p></p>
+     <p>kuamr</p>
     </div>
   );
 }
